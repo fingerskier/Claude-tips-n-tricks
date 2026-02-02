@@ -24,5 +24,7 @@ Helpful info and scripts for Claude
   * performance
   * duplication
   * security
-* Install the official Claude Code GitHub App ~ it'll respond to entire ns
+* Install the official Claude Code GitHub App ~ it'll respond to mentions
+
+* 
 
